@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Helvetica Bold';
+    src: url('../fonts/Helvetica-Bold-Font.ttf');
+}
+
+@font-face {
+    font-family: 'Free Sans';
+    src: url('../fonts/FreeSans.ttf');
+}
+
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('../fonts/Acumin-Pro.ttf');
+}
