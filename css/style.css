@@ -170,9 +170,10 @@ span {
     width: 360px;
     height: 896px;
     margin-top: 40px;
-    margin-left: 36px;
-    display: inline-block;
+    margin-left: 35px;
     vertical-align: top;
+    display: inline-block;
+    
 }
 .right-image {
     margin-top: 102px;
