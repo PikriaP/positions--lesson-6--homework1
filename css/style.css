@@ -166,6 +166,9 @@ span {
     /*padding-bottom: 234px;*/
 }
 
+.right-image {
+    margin-top: 102px;
+}
 .right-image-container {
     width: 360px;
     height: 896px;
@@ -175,7 +178,5 @@ span {
     display: inline-block;
     
 }
-.right-image {
-    margin-top: 102px;
-}
+
 
