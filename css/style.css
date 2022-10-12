@@ -132,6 +132,14 @@ span {
     height: 20px;
     color: #202124;
 }
+.bottom-section {
+    /* display: inline-block; */
+    width: 1160px;
+    height: 960px;
+    margin: 0 auto;
+    margin-top: 140px;
+    margin-bottom: 234px;
+}
 
 .left-image-container {
     width: 760px;
@@ -155,15 +163,6 @@ span {
 }
 .second-image {
     margin-top: 33px;
-}
-
-.bottom-section {
-    /* display: inline-block; */
-    width: 1160px;
-    height: 960px;
-    margin: 0 auto;
-	margin-top: 140px;
-    /*padding-bottom: 234px;*/
 }
 
 .right-image {
